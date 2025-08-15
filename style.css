@@ -1,0 +1,10 @@
+*{
+    background-color: grey;
+    box-sizing: border-box;
+}
+
+.title{
+    color: blue;
+    text-align: center;
+    background-color: white;
+}
