@@ -1,10 +1,34 @@
 *{
-    background-color: grey;
     box-sizing: border-box;
 }
 
+body{
+    background-color: rgb(210, 241, 210);
+}
+
 .title{
-    color: blue;
+    color: #032908;
     text-align: center;
-    background-color: white;
+    background-color: #96c9ad;
+    padding: 8px;
+    margin: 12px;
+    font-size: 24px;
+}
+
+h2{
+    color: #032908;
+    display: inline-block;
+    background-color: #96c9ad;
+    padding: 8px 16px;
+    margin: 0px;
+}
+
+span{
+    color: rgb(17, 80, 255);
+}
+
+img{
+    border: solid 2px black;
+    margin: auto;
+    display: block;
 }
